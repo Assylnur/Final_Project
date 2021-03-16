@@ -1,0 +1,23 @@
+{
+  "name": "final",
+  "version": "1.0.0",
+  "description": "Final project Group1",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Assylnur/Final_Project.git"
+  },
+  "author": "Group1 MT-2001",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Assylnur/Final_Project/issues"
+  },
+  "homepage": "https://github.com/Assylnur/Final_Project#readme"
+}
